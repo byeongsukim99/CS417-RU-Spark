@@ -1,3 +1,6 @@
+package com.RUSpark;
+
+/* any necessary Java packages here */
 
 import scala.Tuple2;
 
